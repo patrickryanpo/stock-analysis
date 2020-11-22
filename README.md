@@ -17,6 +17,7 @@ By refactoring the code, it can be seen in the photos below that the time it tak
 <br />
 
 *2017 Original Code Run Time:*
+
 ![Image of 2017 Original Run Time](https://github.com/patrickryanpo/stock-analysis/blob/main/Resources/2017%20Original%20Code.png)
 
 As we can see from the representation above, the refactored code run in 0.08 seconds when compared to the original code with run in 0.4 seconds. The same conclusion can be made with the 2018 analysis, illustrated below. 
