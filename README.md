@@ -269,3 +269,12 @@ Next i
 
 End Sub
 ```
+## Summary 
+
+As presented in the results section of this Readme file, refactoring code allows for a more efficient way of running the code. In line with this, refactoring code is important in improving the code architecture, which will allow the code to be more understandable, run faster, and consistent. Refactored code also plays a key role in reducing technical costs that allows a cleaner code that will be valuable in the future. 
+
+Disadvantages of refactoring code include time consumption and road blocks. At times, refactoring code may not be as straight forward and may take more time than projected. The person refactoring the code may also hit roadblocks which may hinder the project from moving forward. 
+
+The same advantages and disadvantages could be said about VBA scripts. In this example, it took me longer to create the refactored code as compared to writing the original code. The time to debug the refactored code took longer than the time saved running with the refactored code. In a small data set, it is not ideal to refactor code as it will only save you a fraction of a second. However, when dealing with bigger data sets, I believe refactoring will prove to be more worthwhile. 
+
+With this, I believe that it is best practice to always save the original code prior to refactoring. 
