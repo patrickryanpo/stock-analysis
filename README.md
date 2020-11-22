@@ -10,13 +10,13 @@ The code in this project has been refactored to run efficiently on more systems,
 
 By refactoring the code, it can be seen in the photos below that the time it takes to run the code significantly dropped with the refactored code when compared to the original: 
 
-2017 Refactored Run Time:
+2017 Refactored Run Time:---
 ![Image of 2017 Refactored Run Time](https://github.com/patrickryanpo/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-2017 Original Code Run Time: 
+2017 Original Code Run Time:---
 ![Image of 2017 Original Code Run Time](https://github.com/patrickryanpo/stock-analysis/blob/main/Resources/2017%20Original%20Code.png)
 
-As we can see from the representation above, the refactored code run in 100th of a second when compared to the original code with run in 10th of seconds. The same conclusion can be made with the 2018 analysis, illustrated below. 
+As we can see from the representation above, the refactored code run in 0.08 seconds when compared to the original code with run in 0.4 seconds. The same conclusion can be made with the 2018 analysis, illustrated below. 
 
 2018 Refactored Run Time:
 ![Image of 2018 Refactored Run Time](https://github.com/patrickryanpo/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
